@@ -10,6 +10,7 @@ body{
 
 ul{
     list-style: none;
+    color: blue;
 }
 a{
     color: rgb(225, 240, 10);
