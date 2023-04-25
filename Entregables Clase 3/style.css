@@ -39,3 +39,6 @@ P,h1,h3{
 h2{text-decoration:underline;
     text-align: start;
 }
+.class{
+    background-color: aliceblue;background-position: unset;
+}
