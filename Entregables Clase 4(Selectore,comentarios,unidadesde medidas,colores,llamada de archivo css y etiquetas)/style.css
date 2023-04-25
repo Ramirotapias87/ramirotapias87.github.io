@@ -12,7 +12,7 @@ ul{
     border: 1px solid #555;
 }
 li {
-     text-align: center;
+     text-align: left;
      border-bottom: 1px solid #555;
     }
     li:last-child {
