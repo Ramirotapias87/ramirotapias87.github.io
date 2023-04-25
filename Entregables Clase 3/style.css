@@ -13,7 +13,7 @@ ul{
     color: rgb(247, 247, 247);
 }
 ol{
-    list-style: none;
+    list-style: square inside;
     color: rgb(10, 10, 248);
 }
 a{
