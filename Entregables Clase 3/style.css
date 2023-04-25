@@ -22,8 +22,9 @@ margin-block-start:20px;
 }
 
 /*estilos puntuales*/
+
 header ul li{
-    color: blue;
+    color: rgb(255, 0, 0);
 }
 
 #Productos{
