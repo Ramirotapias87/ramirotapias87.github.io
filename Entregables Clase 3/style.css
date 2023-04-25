@@ -10,7 +10,11 @@ body{
 
 ul{
     list-style: none;
-    color: blue;
+    color: rgb(14, 14, 15);
+}
+ol{
+    list-style: none;
+    color: rgb(14, 14, 15);
 }
 a{
     color: rgb(225, 240, 10);
