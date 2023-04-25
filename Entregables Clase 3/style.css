@@ -42,8 +42,8 @@ background-color: aquamarine;
 }
 
 
-P,h1,h2{
-    color: azure;
+P,h1,h3{
+    color: rgb(13, 14, 14);
     display: block
     font-size 50px;
     font-weight 50px;
