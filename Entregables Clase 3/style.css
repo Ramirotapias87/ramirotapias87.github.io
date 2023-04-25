@@ -40,3 +40,6 @@ P,h1,h3{
 h2{text-decoration:underline;
     text-align: start;
 }
+aside{
+    text-align: end;
+}
