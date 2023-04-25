@@ -9,16 +9,10 @@ body{
 }
 
 ul{
-    border: 1px solid #555;
+    list-style: circle;
+    color: rgb(247, 247, 247);
+    display: inline-block;
 }
-li {
-     text-align: left;
-     border-bottom: 1px solid #555;
-    }
-    li:last-child {
-        border-bottom: none;
-    };
-
 ol{
     list-style: square inside;
     color: rgb(10, 10, 248);
