@@ -34,20 +34,7 @@ header ul li{
     display: inline-block;
 }
 
-#Productos{
-text-align: center;
-color:red;
-background-color: aquamarine;
-}
-#section{
-    color: aqua;
-    background-color: color:rgb(179, 235, 245) !important;
-}
-
-
 P,h1,h3{
     color: rgb(247, 247, 247);
     display: block
-    font-size 50px;
-    font-weight 50px;
 }
