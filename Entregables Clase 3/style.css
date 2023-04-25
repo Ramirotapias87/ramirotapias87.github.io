@@ -1,0 +1,43 @@
+/*selector universal*/
+*{
+    margin:0px;
+    padding: 0px;
+}
+/*etiquetas generales*/
+body{
+    background-color: rgb(179, 235, 245) ;
+}
+
+ul{
+    list-style: none;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+h1,section{
+margin-block-start:20px;
+}
+
+/*estilos puntuales*/
+header ul li{
+    color: blue;
+}
+
+#Productos{
+text-align: center;
+color:red;
+background-color: aquamarine;
+}
+#section{
+    color: aqua;
+    background-color: color:rgb(179, 235, 245) !important;
+}
+
+
+P,h1,h2{
+    color: azure;
+    display: block
+    font-size 50px;
+    font-weight 50px;
+}
