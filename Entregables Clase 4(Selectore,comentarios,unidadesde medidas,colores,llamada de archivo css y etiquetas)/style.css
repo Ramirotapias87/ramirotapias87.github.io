@@ -13,7 +13,7 @@ body{
   }
 ul{
     list-style: circle;
-    color: rgb(247, 247, 247);
+    color: rgb(6, 6, 6);
     display: inline-block;
 }
 ol{
