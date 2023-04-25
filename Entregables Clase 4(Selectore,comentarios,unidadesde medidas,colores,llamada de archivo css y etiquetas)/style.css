@@ -7,7 +7,10 @@
 body{
     background-color: rgb(153, 156, 156);
 }
-
+.active {
+    background-color: #04AA6D;
+    color: white;
+  }
 ul{
     list-style: circle;
     color: rgb(247, 247, 247);
