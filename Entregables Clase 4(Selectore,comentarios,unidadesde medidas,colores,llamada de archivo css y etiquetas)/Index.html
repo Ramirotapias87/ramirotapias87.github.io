@@ -62,7 +62,9 @@ li a:hover:not(.active) {
 li {
   float: left;
 }
-
+li {
+  display: inline;
+}
 li a {
   display: block;
   padding: 8px;
@@ -81,23 +83,30 @@ li a {
     <main>
       <h2> Categorias </h2>
      <style>
-       li b {
-        display: block;
-        color: #000;
-        padding: 0px;
-        text-decoration: none;
-      }
-      
-      li b.active {
-        background-color: #aa0404;
-        color: white;
-      }
-      
-      li b:hover:not(.active) {
-        background-color: rgb(90, 90, 91);
-        color: white;
-      }
-      </style>
+    ul{   
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+</style>
       <ul><li><b class="active">Aparatos Eléctricos</b></li>
       <li><b>Electricidad e Iluminacíon</b></li>
       <li><b>Articulos Sanitarios</b></li>
