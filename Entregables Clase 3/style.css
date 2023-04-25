@@ -20,8 +20,8 @@ a{
     color: rgb(225, 240, 10);
     text-decoration: none;
 }
-h1,section{
-    color: rgb(0, 255, 60);
+h3{
+    color: rgb(255, 0, 0);
 margin-block-start:20px;
 }
 
