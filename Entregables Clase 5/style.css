@@ -47,3 +47,6 @@ h2{text-decoration:underline;
 }
 body { background-image: url("Ferreteria\ Fondo.jpg");
 }
+main{
+    border-style:dotted;
+    }
