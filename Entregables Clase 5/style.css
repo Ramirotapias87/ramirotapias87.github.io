@@ -1,25 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Dancing+Script&display=swap");
 *{
     padding: 0px;
     margin: 0px;
 }
-.contenedor{
+.contenedor {
     width: 400px;
     height: 150px;
     background-color: grey;
     border: 4px dotted black;
+    margin: 50px;
     /* margin 10px 20px 10px 20px; */
     /*margin: 0 10 px; 0 arriba y abajo, y 10 px izq y derecha,*/
-    margin: 50px;
     padding: 40px;
     display: flex;
-    align-items: center;
     justify-content: center;
+    align-items: center;
 }
-.message{
-    font-size: 32px;
-    font-weight: 700px;
+.message {
+    font-size: 62px;
+    font-weight: 700;
     text-transform: uppercase;
     color: azure;
     text-align: center;
-    font-family: 'Castoro Titling', cursive;
+    font-family: "Dancing Script", cursive;
 }
