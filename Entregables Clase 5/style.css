@@ -1,0 +1,47 @@
+/*selector universal*/
+*{
+    margin: 0px;
+    padding: 8px;
+}
+/*etiquetas generales*/
+body{
+    background-color: rgb(153, 156, 156);
+}
+.active {
+    background-color: #aa0404;
+    color: white;
+  }
+ul{
+    list-style: circle;
+    color: rgb(6, 6, 6);
+    display: inline-block;
+}
+ol{
+    list-style: square inside;
+    color: rgb(225, 225, 229);
+}
+a{
+    color: rgb(247, 247, 247);
+    text-decoration:double;
+}
+h2{
+    color: rgb(20, 19, 19);
+    scroll-margin-left: 20px;
+}
+
+/*estilos puntuales*/
+
+header ul li{
+    color: rgb(255, 0, 0);
+    display: inline-block;
+}
+
+P,h1,h3{
+    color: rgb(247, 247, 247);
+}
+h2{text-decoration:underline;
+    text-align: start;
+}
+.class{
+    background-color: aliceblue;background-position:right;
+}
