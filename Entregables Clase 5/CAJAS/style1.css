@@ -10,7 +10,8 @@
     font-weight: 700;
     text-transform: uppercase;
     color: #330757;
-    text-align: center;
+    justify-content: center;
+    align-items: center;
     font-family: "Dancing Script", cursive;
 } 
 .message{
@@ -22,7 +23,7 @@
     /* margin 10px 20px 10px 20px; */
     /*margin: 0 10 px; 0 arriba y abajo, y 10 px izq y derecha,*/
     padding: 40px;
-    display: inline-table0;
+    display: flex;
     justify-content: center;
     text-align: center;
 }
