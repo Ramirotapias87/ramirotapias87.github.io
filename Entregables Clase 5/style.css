@@ -1,50 +1,25 @@
-/*selector universal*/
 *{
+    padding: 0px;
     margin: 0px;
-    padding: 8px;
 }
-/*etiquetas generales*/
-body{
-    background-color: rgb(153, 156, 156);
+.contenedor {
+    width: 400px;
+    height: 150px;
+    background-color: azure;
+    border: 4px dotted black;
+    /* margin 10px, 20px, 10px, 20px; */
+    /*margin: 0, 10 px; 0 arriba y bajao, y 10 px izq y derecha,*/
+    margin: 50px;
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-.active {
-    background-color: #aa0404;
-    color: white;
-  }
-ul{
-    list-style: circle;
-    color: rgb(6, 6, 6);
-    display: inline-block;
+.message{
+    font-size: 32px;
+    font-weight: 700px;
+    text-transform: uppercase;
+    color: azure;
+    text-align: center;
+    font-family: 'Castoro Titling', cursive;
 }
-ol{
-    list-style: square inside;
-    color: rgb(225, 225, 229);
-}
-a{
-    color: rgb(247, 247, 247);
-    text-decoration:double;
-}
-h2{
-    color: rgb(20, 19, 19);
-    scroll-margin-left: 20px;
-}
-
-/*estilos puntuales*/
-
-header ul li{
-    color: rgb(255, 0, 0);
-    display: inline-block;
-}
-
-P,h1,h3{
-    color: rgb(247, 247, 247);
-}
-h2{text-decoration:underline;
-    text-align: start;
-}
-.class{
-    background-color: aliceblue;background-position:right;
-}
-
-
-
