@@ -3,7 +3,7 @@
     padding: 0px;
     margin: 0px;
 }
-.contenedor {
+div contenedor {
     width: 400px;
     height: 150px;
     background-color: grey;
@@ -16,7 +16,7 @@
     justify-content: center;
     align-items: center;
 }
-.message {
+div message{
     font-size: 62px;
     font-weight: 700;
     text-transform: uppercase;
