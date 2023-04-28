@@ -28,7 +28,7 @@ h2{
     color: rgb(20, 19, 19);
     scroll-margin-left: 20px;
 }
-header ul li{
+header {
     background-color:rgb(255, 0, 0);
     position: fixed;
     width: 120px;
