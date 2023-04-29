@@ -36,7 +36,7 @@ header {
     display: 100%;
 }
 
-P,h1,h3{
+h1,h3{
     color: rgb(247, 247, 247);
 }
 h2{text-decoration:underline;
