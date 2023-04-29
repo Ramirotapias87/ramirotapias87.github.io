@@ -61,15 +61,6 @@ ul{
     text-decoration: none;
     background-color: #dddddd;
   }
-  
-  li a.active {
-    background-color: #aa0404;
-    color: white;
-  }
-  li a:hover:not(.active) {
-    background-color: rgb(90, 90, 91);
-    color: white;
-  }
   li b.active {
     background-color: #aa0404;
     color: white;
