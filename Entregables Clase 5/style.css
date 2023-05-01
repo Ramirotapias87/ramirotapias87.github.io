@@ -4,7 +4,7 @@
     padding: 10px;
 }
 ul{
-    list-style: circle;
+    list-style-position: inside;
     color: rgb(6, 6, 6);
     display: inline-block;
 }
