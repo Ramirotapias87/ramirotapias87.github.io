@@ -75,6 +75,8 @@ ul{
     height: 10px;
     text-align: center;
   }
-  .class.Todos{
+  .Barra{
+    background-position: 100px;
+    background-color: aqua;
     border-style: groove;
   }
