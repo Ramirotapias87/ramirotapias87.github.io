@@ -47,6 +47,7 @@ ul{
   li b {
     list-style: none;
     display: inline table;
+    justify-content: stretch;
     color: #000;
     padding: 0px;
     text-decoration: none;
