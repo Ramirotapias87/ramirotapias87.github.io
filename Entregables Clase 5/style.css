@@ -45,6 +45,7 @@ ul{
     background-color: #dddddd;
   }
   li b {
+    list-style: none;
     display: inline table;
     color: #000;
     padding: 0px;
