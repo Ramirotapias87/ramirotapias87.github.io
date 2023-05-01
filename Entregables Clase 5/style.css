@@ -48,7 +48,7 @@ ul{
     background-color: #dddddd;
   }
   li b {
-    display: block;
+    font-display: optional;
     color: #000;
     padding: 0px;
     text-decoration: none;
