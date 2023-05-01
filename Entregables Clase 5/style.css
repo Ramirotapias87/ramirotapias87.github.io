@@ -60,6 +60,7 @@ ul{
     text-align: center;
   }
   .Barra{
+    list-style: none;
     display: flex;
     justify-content: space-between;  
     background-position: 100px;
