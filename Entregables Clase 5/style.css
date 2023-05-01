@@ -40,15 +40,6 @@ ul{
     text-decoration: none;
     background-color: #dddddd;
   }
-  li b {
-    list-style: none;
-    display: inline table;
-    justify-content: space-between;
-    color: #000;
-    padding: 8px 16px;
-    text-decoration: none;
-    background-color: #dddddd;
-  }
   .footer{
     background-color: rgb(12, 12, 201);
     width: 100%;
