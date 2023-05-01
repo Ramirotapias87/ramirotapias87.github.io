@@ -7,9 +7,6 @@ ol{
     list-style: square inside;
     color: rgb(225, 225, 229);
 }
-a{
-    color: rgb(247, 247, 247);
-}
 h2{
     color: rgb(20, 19, 19);
     scroll-margin-left: 20px;
@@ -67,6 +64,9 @@ ul{
     border-style: groove;
   }
   .Articulos{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
     background-position: 100px;
     background-color: rgb(192, 192, 192);
     border-style: groove;
