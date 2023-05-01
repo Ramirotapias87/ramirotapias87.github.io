@@ -50,9 +50,6 @@ ul{
     padding: 0px;
     text-decoration: none;
   }
-  li {
-    flood-opacity: initial;
-  }
   .footer{
     background-color: rgb(12, 12, 201);
     width: 100%;
