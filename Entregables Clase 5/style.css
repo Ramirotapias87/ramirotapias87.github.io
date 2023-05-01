@@ -6,7 +6,6 @@
 ul{
     list-style-position: inside;
     color: rgb(6, 6, 6);
-    font-display: auto;
 }
 ol{
     list-style: square inside;
