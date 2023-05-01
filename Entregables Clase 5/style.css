@@ -3,13 +3,6 @@
     margin: 0px;
     padding: 8px;
 }
-/*etiquetas generales*/
-body{
-    background-color:none
-.active {
-    background-color: #aa0404;
-    color: white;
-  }
 ul{
     list-style: circle;
     color: rgb(6, 6, 6);
