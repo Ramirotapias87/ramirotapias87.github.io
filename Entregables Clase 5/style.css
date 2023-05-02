@@ -21,8 +21,12 @@ header {
     display: 100%;
 }
 
-h1,h3{
+h1{
     color: rgb(247, 247, 247);
+}
+h3{
+  color: rgb(247, 247, 247);
+  align-items: center;
 }
 ul{
     margin: 0px;
