@@ -66,3 +66,10 @@ ul{
     justify-content: space-around;
     background-color:  rgb(247, 247, 247);
   }
+  .Ferreteria{
+    width: 10px;
+    justify-content: center;
+    background-color: aqua;
+    border-style: groove;
+    display: flex;
+  }
