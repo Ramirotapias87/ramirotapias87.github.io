@@ -74,7 +74,7 @@ ul{
     border-style: groove;
     display: flex;
   }
-  .Contacto.Formulario{
+  .Contacto{
     margin: 20px;
     padding: 20px;
     border-top: #fc0d0d;
@@ -82,3 +82,11 @@ ul{
     border-bottom: #fc0d0d;
     border-right-color: #0dccfc;
   }
+  .Formulario{
+  margin: 20px;
+  padding: 20px;
+  border-top: #fc0d0d;
+  border-color: azure;
+  border-bottom: #fc0d0d;
+  border-right-color: #0dccfc;
+}
