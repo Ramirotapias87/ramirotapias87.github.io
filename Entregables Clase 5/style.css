@@ -62,7 +62,7 @@ ul{
     border-style: groove;
   }
   .Todos{
-    width: 1000px;
+    width: 100%;
     justify-content: space-around;
     background-color:  rgb(247, 247, 247);
   }
