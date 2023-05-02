@@ -15,6 +15,7 @@ h2{
     text-align: start;
 }
 header{
+    padding: 10px;
     background-color:rgb(231, 229, 229);
     position: fixed;
     width: 100%;
