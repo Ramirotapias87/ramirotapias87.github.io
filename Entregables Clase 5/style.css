@@ -41,7 +41,6 @@ ul{
   footer{
     background-color:rgb(192, 192, 192);
     width: 900px;
-    height: 5px;
     text-align: center;
   }
   .Barra{
@@ -65,6 +64,6 @@ ul{
     align-items: center;
     display: flex;
     justify-content: space-around;
-    background-color: #fc0d0d;
+    background-color:  rgb(247, 247, 247);
     border-style: groove;
   }
