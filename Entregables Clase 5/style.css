@@ -63,6 +63,7 @@ ul{
     border-style: groove;
   }
   .Todos{
+    align-content: center;
     align-items: center;
     display: flex;
     justify-content: space-between;
