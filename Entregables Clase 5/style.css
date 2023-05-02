@@ -28,7 +28,7 @@ h1{
 ul{
     margin: 0px;
     padding: 20px;
-    width: 1000px;
+    width: 100%;
 }
   li a{
     list-style: none;
