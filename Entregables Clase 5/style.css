@@ -2,6 +2,7 @@
 *{
     margin: 0px;
     padding: 10px;
+    background-color: darkgray;
 }
 ol{
     list-style: square inside;
