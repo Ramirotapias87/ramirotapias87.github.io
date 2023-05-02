@@ -74,19 +74,8 @@ ul{
     border-style: groove;
     display: flex;
   }
-  .Contacto{
-    margin: 20px;
-    padding: 20px;
-    border-top: #fc0d0d;
-    border-color: azure;
-    border-bottom: #fc0d0d;
-    border-right-color: #e4fc0d;
-  }
   .Formulario{
   margin: 20px;
   padding: 20px;
   border-top: #fc0d0d;
-  border-color: azure;
-  border-bottom: #fc0d0d;
-  border-right-color: #0dccfc;
 }
