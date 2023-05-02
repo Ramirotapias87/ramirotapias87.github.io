@@ -67,6 +67,8 @@ ul{
     background-color:  rgb(247, 247, 247);
   }
   .Ferreteria{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic; color: aliceblue;
     width: 1000px;
     justify-content: center;
     background-color: aqua;
