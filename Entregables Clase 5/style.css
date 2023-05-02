@@ -45,7 +45,7 @@ ul{
     align-items: center;
     align-content: center;
     text-align: center;
-    position: static;
+    position: center;
   }
   .Barra{
     list-style: none;
