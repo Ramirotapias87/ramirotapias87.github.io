@@ -63,7 +63,6 @@ ul{
   .Todos{
     width: 1000px;
     height: 5px;
-    align-items: center;
     justify-content: space-around;
     background-color:  rgb(247, 247, 247);
   }
