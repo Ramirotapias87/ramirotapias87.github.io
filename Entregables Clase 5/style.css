@@ -65,8 +65,7 @@ ul{
     height: 5px;
     align-content: center;
     align-items: center;
-    display: flex;
+    font-display: center;
     justify-content: space-around;
     background-color:  rgb(247, 247, 247);
-    border-style: groove;
   }
