@@ -13,7 +13,7 @@ h2{
     text-decoration:underline;
     text-align: start;
 }
-header {
+header{
     background-color:rgb(231, 229, 229);
     position: fixed;
     width: 100%;
@@ -29,7 +29,7 @@ ul{
     padding: 20px;
     width: 900px;
 }
-  li a {
+  li a{
     list-style: none;
     display: flex;
     justify-content: space-between;
@@ -38,7 +38,7 @@ ul{
     text-decoration: none;
     background-color: #dddddd;
   }
-  footer{
+  .Todos{
     background-color:rgb(192, 192, 192);
     width: 900px;
     height: 5px;
