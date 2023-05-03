@@ -23,12 +23,14 @@
   main{
     margin-top: 10px;
   }
+  section{
+    display: flex;
+    flex-direction: column;
+  }
   section article{
     background-color: aqua;
   }
   .secondArticle{
-    margin: 0 10px;
+    margin: 10px 0;
   }
-  section{
-    display: flex;
-  }
+  

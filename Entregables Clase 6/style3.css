@@ -1,0 +1,17 @@
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    width: 980px;
+    margin: 0 auto;
+    margin-top: 40px;
+    }
+    @media only screen and (min-width: 320px) and (max-width: 576px) {
+    .contenedor {
+    width: 100%;
+    padding-left: 23px;
+    flex-direction: column-reverse;
+    }
+    .cajas {
+    width: 100%;
+    }
+    }
