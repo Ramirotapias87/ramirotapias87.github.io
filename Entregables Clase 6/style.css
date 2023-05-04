@@ -58,8 +58,8 @@ h1,h3{
 ul{
     list-style-type: none;
     margin: 5px;
-    padding: 0px;
-    width: 200px;
+    padding: 20px;
+    width: 100%;
     background-color:  rgb(153, 156, 156);
 }
   li a {
