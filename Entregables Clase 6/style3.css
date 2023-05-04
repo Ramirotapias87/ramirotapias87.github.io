@@ -1,3 +1,14 @@
+.contenedor {
+    display: flex;
+    width: 100%;
+}
+
+.elemento{
+    width: 30px;
+    height: 25px;
+    border: 1px solid black;
+}
+  
 .el-1{
     background-color: rgb(3, 26, 238);
 }
@@ -19,19 +30,3 @@
 .el-7{
     background-color: rgb(217, 218, 233);
 }
-.contenedor {
-    display: flex;
-    flex-wrap: wrap;
-    width: 980px;
-    margin: 0 auto;
-    margin-top: 40px;
-    }
-    @media only screen and (min-width: 320px) and (max-width: 576px) {
-    .contenedor {
-    width: 100%;
-    padding-left: 23px;
-    flex-direction: column-reverse;
-    }
-    .cajas {
-    width: 100%;
-    }
