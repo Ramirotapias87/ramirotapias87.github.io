@@ -29,7 +29,7 @@ body{
     color: white;
   }
 
-.ol{
+ol{
     list-style: square inside;
     color: rgb(225, 225, 229);
     float: left;
