@@ -75,7 +75,7 @@ ul{
   .Categorias {
     background-color: #aa0404;
     color: white;
-    width: 40px;
+    width: 100%;
     float: left;
   }
   li b {
