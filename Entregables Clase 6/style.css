@@ -65,12 +65,10 @@ ul{
     background-color: #dddddd;
   }
   .Categorias{
-    width: 100%;
+    width: 200;
     float: left;
-    display: flex;
     color: #000;
     text-decoration: none;
-    float: left;
   }
   .Todos{
     border-style: groove;
