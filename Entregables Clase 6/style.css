@@ -32,6 +32,8 @@ body{
 ol{
     list-style: square inside;
     color: rgb(225, 225, 229);
+    float: left;
+    flex-direction: row;
 }
 h2{
     color: rgb(20, 19, 19);
