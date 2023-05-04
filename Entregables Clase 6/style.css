@@ -20,8 +20,8 @@ body{
 
 .Intro{
   background-color: #dddddd;
-  padding: 10px;
-  color: aqua;
+  padding: 30px;
+  color: rgb(9, 10, 10);
 }
 
 .active {
