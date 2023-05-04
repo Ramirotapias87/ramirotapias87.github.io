@@ -76,7 +76,7 @@ ul{
     background-color: #aa0404;
     color: white;
     width: 40px;
-    float: right;
+    float: left;
   }
   li b {
     display: flex;
