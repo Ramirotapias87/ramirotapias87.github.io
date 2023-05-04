@@ -54,12 +54,11 @@ header {
 h1,h3{
     color: rgb(247, 247, 247);
 }
-
 ul{
     list-style-type: none;
     margin: 5px;
-    padding: 20px;
-    width: 100%;
+    padding: 50px;
+    width: 200px;
     background-color:  rgb(153, 156, 156);
 }
   li a {
