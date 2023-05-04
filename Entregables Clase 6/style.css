@@ -29,7 +29,7 @@ body{
     color: white;
   }
 ul{
-    list-style: circle;
+    list-style: square;
     color: rgb(6, 6, 6);
     display: inline-block;
 }
