@@ -55,13 +55,10 @@ h1,h3{
     color: rgb(247, 247, 247);
 }
 
-.class{
-    background-color: aliceblue;background-position:right;
-}
 ul{
     list-style-type: none;
     margin: 5px;
-    padding: 50px;
+    padding: 0px;
     width: 200px;
     background-color:  rgb(153, 156, 156);
 }
