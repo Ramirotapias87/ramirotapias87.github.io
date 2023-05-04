@@ -24,7 +24,7 @@ body{
   color: rgb(9, 10, 10);
 }
 
-.active {
+.nav {
     background-color: #aa0404;
     color: white;
   }
@@ -72,9 +72,11 @@ ul{
     text-decoration: none;
     background-color: #dddddd;
   }
-  li b.active {
+  .Categorias {
     background-color: #aa0404;
     color: white;
+    width: 40px;
+    float: right;
   }
   
   li b:hover:not(.active) {
