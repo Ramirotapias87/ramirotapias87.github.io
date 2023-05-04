@@ -28,11 +28,7 @@ body{
     background-color: #aa0404;
     color: white;
   }
-ul{
-    list-style: square;
-    color: rgb(6, 6, 6);
-    display: inline-block;
-}
+
 ol{
     list-style: square inside;
     color: rgb(225, 225, 229);
@@ -64,7 +60,7 @@ h1,h3{
 }
 ul{
     list-style-type: none;
-    margin: 0;
+    margin: 1px;
     padding: 0;
     width: 200px;
     background-color:  rgb(153, 156, 156);
