@@ -92,17 +92,15 @@ ul{
   li {
     float: left;
   }
-  footer{
-    background-color: rgb(12, 12, 201);
-    width: 100%;
-    height: 10px;
-    text-align: center;
-  }
   .Todos{
     border-style: groove;
   }
   section{
     display: flex;
     flex-direction: column;
-
+  }
+  footer{
+    width: 100%;
+    height: 15px;
+    text-align: center;
   }
