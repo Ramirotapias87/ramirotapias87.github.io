@@ -55,6 +55,8 @@ h1,h3{
     color: rgb(247, 247, 247);
 }
 ul{
+    display: flex;
+    flex-direction: row;
     list-style-type: none;
     margin: 5px;
     padding: 50px;
