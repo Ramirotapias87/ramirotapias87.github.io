@@ -29,6 +29,7 @@ body{
     color: white;
       display: flex;
       flex-direction: row;
+      align-items: flex-start;
   }
 
 ol{
@@ -57,6 +58,7 @@ h1,h3{
 ul{
     display: flex;
     flex-direction: row;
+    align-items: flex-start;
     list-style-type: none;
     margin: 5px;
     padding: 50px;
