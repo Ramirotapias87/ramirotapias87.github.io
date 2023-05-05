@@ -79,7 +79,7 @@ ul{
   }
   section{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
   }
   footer{
     width: 100%;
