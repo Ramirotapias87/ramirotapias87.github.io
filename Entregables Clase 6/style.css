@@ -27,6 +27,8 @@ body{
 .nav {
     background-color: #aa0404;
     color: white;
+      display: flex;
+      flex-direction: row;
   }
 
 ol{
