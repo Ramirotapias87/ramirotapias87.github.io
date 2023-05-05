@@ -85,6 +85,7 @@ ul{
     flex-direction: row;
   }
   footer{
+    display: flex;
     width: 100%;
     height: 15px;
     text-align: center;
