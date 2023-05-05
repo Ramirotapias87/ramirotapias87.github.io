@@ -71,7 +71,9 @@ ul{
     text-decoration: none;
     background-color: #dddddd;
     text-justify: auto;
-  
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
  }
   .Categorias{
     width: 200;
