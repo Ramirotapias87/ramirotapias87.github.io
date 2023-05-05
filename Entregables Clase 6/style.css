@@ -69,6 +69,7 @@ ul{
     padding: 8px 50px;
     text-decoration: none;
     background-color: #dddddd;
+    text-justify: auto;
   }
   .Categorias{
     width: 200;
