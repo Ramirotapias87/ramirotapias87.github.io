@@ -73,9 +73,9 @@ ul{
     text-decoration: none;
   }
    .section{
-    font-size: larger;
     display: flex;
     flex-direction: row;
+    align-items: flex-start ;
  }
   }
   .Todos{
