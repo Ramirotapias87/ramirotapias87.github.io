@@ -23,17 +23,6 @@ body{
   padding: 30px;
   color: rgb(9, 10, 10);
 }
-
-.nav {
-  margin: 5px;
-  padding: 5px;
-    background-color: #aa0404;
-    color: white;
-      display: flex;
-      flex-direction: row;
-      align-items: flex-start;
-  }
-
 ol{
     list-style: square inside;
     color: rgb(225, 225, 229);
