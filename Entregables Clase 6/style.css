@@ -74,8 +74,8 @@ ul{
 .Redes{
   display: flex;
   flex-direction: row;
-  align-content: flex-start;
-  justify-content: flex-start;
+  align-content: flex-end;
+  justify-content: flex-end;
   text-decoration: none;
   list-style-type: none;
   margin: 5px;
