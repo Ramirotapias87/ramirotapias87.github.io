@@ -71,3 +71,7 @@ ul{
     flex-direction: row;
     align-items: flex-start ;
  }
+.Redes{
+  display: flex;
+  flex-direction: row;
+}
