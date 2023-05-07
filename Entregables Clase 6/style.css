@@ -25,6 +25,7 @@ body{
 }
 ol{
   flex-direction: row;
+  align-items: flex-start;
   justify-content: flex-start;
     list-style: square inside;
     color: rgb(225, 225, 229);
@@ -78,7 +79,3 @@ ul{
     flex-direction: row;
     align-items: flex-start ;
  }
-  }
-  .Todos{
-  }
-  
