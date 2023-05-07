@@ -74,7 +74,11 @@ ul{
 .Redes{
   display: flex;
   flex-direction: row;
+  align-content: flex-start;
   justify-content: flex-start;
   text-decoration: none;
   list-style-type: none;
-}
+  margin: 5px;
+  padding: 0px;
+  width: 100%;
+} 
