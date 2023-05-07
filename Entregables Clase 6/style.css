@@ -46,16 +46,6 @@ header {
 h1,h3{
     color: rgb(247, 247, 247);
 }
-ul{
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    list-style-type: none;
-    margin: 5px;
-    padding: 50px;
-    width: 200px;
-    background-color:  rgb(153, 156, 156);
-}
   li a {
     color: #000;
     padding: 8px 50px;
