@@ -76,4 +76,5 @@ ul{
   flex-direction: row;
   justify-content: flex-start;
   text-decoration: none;
+  list-style-type: none;
 }
