@@ -25,7 +25,6 @@ body{
 }
 h2{
     color: rgb(20, 19, 19);
-    scroll-margin-left: 20px;
     text-decoration:underline;
     text-align: start;
 }
@@ -61,7 +60,6 @@ ul{
     align-items: flex-start;
  }
   .Categorias{
-    width: 200;
     float: left;
     color: #000;
     text-decoration: none;
