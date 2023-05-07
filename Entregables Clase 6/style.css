@@ -24,10 +24,11 @@ body{
   color: rgb(9, 10, 10);
 }
 ol{
+  flex-direction: row;
+  justify-content: flex-start;
     list-style: square inside;
     color: rgb(225, 225, 229);
     float: left;
-    flex-direction: row;
 }
 h2{
     color: rgb(20, 19, 19);
@@ -49,11 +50,11 @@ h1,h3{
 ul{
     display: flex;
     flex-direction: row;
-    align-items: flex-start;
+    align-content: flex-start;
     list-style-type: none;
     margin: 5px;
     padding: 50px;
-    width: 200px;
+    width: 100%;
     background-color:  rgb(153, 156, 156);
 }
   li a {
