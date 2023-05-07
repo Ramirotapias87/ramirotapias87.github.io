@@ -46,7 +46,7 @@ header {
 h1,h3{
     color: rgb(247, 247, 247);
 }
-.section{
+ul{
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -72,7 +72,12 @@ h1,h3{
     color: #000;
     text-decoration: none;
   }
-.Todos{
+   section{
+    display: flex;
+    flex-direction: row;
+ }
+  }
+  .Todos{
     display: flex;
     width: 100%;
     height: 15px;
