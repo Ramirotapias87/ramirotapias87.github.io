@@ -30,7 +30,6 @@ h2{
 }
 header {
     background-color:rgb(255, 0, 0);
-    position: fixed;
     width: 100%;
     height: fit-content;
     display: 100%;
