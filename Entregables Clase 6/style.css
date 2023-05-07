@@ -82,7 +82,7 @@ ul{
   padding: 0px;
   background-color: rgb(229, 233, 233);
 } 
-.Todos{
+main{
   display: flex;
   align-items: center;
   align-content: center;
