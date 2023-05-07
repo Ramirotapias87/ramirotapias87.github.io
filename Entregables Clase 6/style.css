@@ -72,10 +72,7 @@ ul{
     color: #000;
     text-decoration: none;
   }
-  .Todos{
-    border-style: groove;
-  }
-  section{
+   section{
     display: flex;
     flex-direction: row;
  }
@@ -86,5 +83,6 @@ ul{
     height: 15px;
     text-align: center;
     justify-content: center;
+    border-style: groove;
   }
   
