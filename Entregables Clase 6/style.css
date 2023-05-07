@@ -80,6 +80,5 @@ ul{
   list-style-type: none;
   margin: 5px;
   padding: 0px;
-  width: 100%;
-  background-color: aqua;
+  background-color: rgb(229, 233, 233);
 } 
