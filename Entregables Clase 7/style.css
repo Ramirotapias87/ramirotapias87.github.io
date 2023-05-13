@@ -89,7 +89,8 @@ ul{
 } 
 .Todos{
   display: flex;
-  align-content: center;
+  align-content: flex-end;
   align-items: center;
   justify-content: center;
+  
 }
