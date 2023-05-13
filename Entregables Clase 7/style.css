@@ -39,7 +39,7 @@ h1,h3{
     color: rgb(247, 247, 247);
     display: flex;
     align-items: center;
-    align-content: center;
+    align-content: flex-start;
     justify-content: center;
 }
 ul{
