@@ -70,6 +70,12 @@ ul{
     flex-direction: row;
     align-items: flex-start ;
  }
+ main{
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
 .Redes{
   display: flex;
   flex-direction: row;
@@ -81,9 +87,9 @@ ul{
   padding: 0px;
   background-color: rgb(229, 233, 233);
 } 
-main{
+.Todos{
   display: flex;
-  align-items: center;
   align-content: center;
+  align-items: center;
   justify-content: center;
 }
