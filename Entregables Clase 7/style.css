@@ -38,6 +38,7 @@ header {
 h1,h3{
     color: rgb(247, 247, 247);
     align-items: center;
+    align-content: center;
 }
 ul{
     display: flex;
