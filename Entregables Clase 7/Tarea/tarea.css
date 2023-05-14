@@ -11,6 +11,7 @@
     color: blue;  }
   .item2{
     background-color: yellow;
+    color: none;
   }
   .item3{
     background-color: black;
