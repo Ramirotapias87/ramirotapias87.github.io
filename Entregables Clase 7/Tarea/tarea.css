@@ -42,7 +42,7 @@
     color:grey
   }
 
-  @media (max-width: 321px), (max-width:480px) {
+  @media (max-width: 321px), (max-width:768px) {
     /* estilos para pantallas con un ancho entre 600px y 800px */
     .contenedor {
       grid-template-columns: repeat(2, 3fr); /* cambia a 2 columnas */
