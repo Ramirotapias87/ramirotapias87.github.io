@@ -1,5 +1,6 @@
 body {
-    margin: 0;
+    display: block;
+    margin: 8;
     padding: 0;
   }
   .contenedor {
