@@ -6,9 +6,6 @@ body {
     margin: 5px;
     height: calc(100vh - 10px);
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(3, 1fr); /* 2 filas de igual altura */
-    /* espacio entre los elementos */
     gap: 10px;
   }
   
@@ -39,7 +36,7 @@ body {
   .item9{
     background-color: grey;
   }
-  
+
   @media (max-width: 768px) {
     .contenedor {
       grid-template-columns: repeat(2, 1fr); /* cambia a 2 columnas */
