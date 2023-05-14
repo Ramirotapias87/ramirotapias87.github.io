@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
   }
-  .container {
+  .contenedor {
     margin: 5px;
     height: calc(100vh - 10px);
     display: grid;
@@ -19,7 +19,7 @@ body {
   }
   
   @media (max-width: 768px) {
-    .container {
+    .contenedor {
       grid-template-columns: repeat(2, 1fr); /* cambia a 2 columnas */
       grid-template-rows: repeat(3, 1fr); /* cambia a 3 filas */
     }
