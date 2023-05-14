@@ -44,12 +44,12 @@
 
   @media (max-width: 321px), (max-width:768px) {
     .contenedor {
-      grid-template-columns: repeat(2, 3fr);
-      grid-template-rows: repeat(3, 3fr); 
+      grid-template-columns: repeat(2, 6fr);
+      grid-template-rows: repeat(3, 6fr); 
     }
     @media (max-width:320px) {
         .contenedor {
-          grid-template-columns: 1fr;
-          grid-template-rows: repeat(3, 1fr); 
+          grid-template-columns: 6fr;
+          grid-template-rows: repeat(3, 6fr); 
         }
 }
