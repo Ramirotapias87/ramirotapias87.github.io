@@ -4,14 +4,14 @@ body {
     grid-template-rows: auto auto auto;
     /* grid-gap: 20px; */
     text-align: center;
-    background-color: azure;
+    background-color: rgb(147, 164, 211);
     grid-row-gap: 20px;
     grid-column-gap: 10px;
   }
   header {
     grid-column: 1/4;
     grid-row: 1;
-    border: 2px solid greenyellow;
+    border: 2px solid rgb(16, 37, 223);
     padding: 10px;
   }
   aside {
@@ -29,6 +29,6 @@ body {
   footer {
     grid-column: 1/4;
     grid-row: 3;
-    border: 2px solid greenyellow;
+    border: 2px solid rgb(16, 37, 223);
     padding: 10px;
   }
