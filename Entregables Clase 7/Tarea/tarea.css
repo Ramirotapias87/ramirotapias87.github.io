@@ -1,9 +1,6 @@
   .contenedor{
     display: grid;
-    grid-template-columns: repeat(3, 3fr);
-    grid-auto-rows: 3fr;
-    grid-column-gap: 10px;
-    grid-row-gap: 10px ;
+
   }
   
   .item1 {
