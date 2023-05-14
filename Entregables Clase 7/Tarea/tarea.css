@@ -1,13 +1,13 @@
 body {
     display: grid;
-    margin: 20px;
+    margin: 40px;
   }
   .contenedor{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-auto-rows: 1fr;
     grid-column-gap: 30px;
-    grid-row-gap: 30px ;
+    grid-row-gap: 10px ;
   }
   
   .item1 {
