@@ -42,14 +42,14 @@
     color:grey
   }
 
-  @media (max-width: 320px){
+  @media (min-width: 320px){
     .contenedor {
       grid-template-columns: 3fr;
       grid-template-rows: repeat(9, 3fr); 
     }
   }
 
-    @media (min-width: 321px) and (max-width:768px){
+    @media (max-width:768px){
     .contenedor {
       grid-template-columns: repeat(2, 3fr); 
       grid-template-rows: repeat(9, 3fr); 
