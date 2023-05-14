@@ -8,6 +8,7 @@
   
   .item1 {
     background-color: blue;
+    coloe
   }
   .item2{
     background-color: yellow;
@@ -34,7 +35,7 @@
     background-color: grey;
   }
 
-  @media (max-width: 480px){
+  @media (max-width: 320px){
     .contenedor {
       grid-template-columns: 1fr;
       grid-template-rows: repeat(3, 1fr); 
