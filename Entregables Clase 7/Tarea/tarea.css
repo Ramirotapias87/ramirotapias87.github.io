@@ -12,10 +12,11 @@ body {
     gap: 10px;
   }
   
-  .item {
+  .item1 {
     background-color: #ddd;
-    font-size: 30px;
-    text-align: center;
+  }
+  .item2{
+    background-color: blue;
   }
   
   @media (max-width: 768px) {
