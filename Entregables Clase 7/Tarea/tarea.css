@@ -48,10 +48,3 @@
       grid-template-rows: 3fr; 
     }
   }
-
-    @media (max-width: 768px){
-    .contenedor {
-      grid-template-columns: repeat(2, 3fr); 
-      grid-template-rows: repeat(9, 3fr); 
-    }
-  }
