@@ -1,6 +1,6 @@
 body {
-    display: block;
-    margin: 8px;
+    display: grid;
+    margin: 20px;
   }
   .contenedor{
     display: grid;
@@ -8,7 +8,7 @@ body {
     grid-auto-rows: 1fr;
     grid-column-gap: 30px;
     grid-row-gap: 15px ;
-    
+  }
   
   .item1 {
     background-color: blue;
