@@ -42,7 +42,7 @@
     color:grey
   }
 
-  @media (min-width: 320px){
+  @media (max-width: 320px){
     .contenedor {
       grid-template-columns: 1fr;
       grid-template-rows: repeat(3, 1fr); 
