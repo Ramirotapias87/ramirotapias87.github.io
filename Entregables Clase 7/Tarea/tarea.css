@@ -45,7 +45,7 @@
   @media (min-width: 320px){
     .contenedor {
       grid-template-columns: 3fr;
-      grid-template-rows:repeat(9, 3fr); 
+      grid-template-rows: 3fr; 
     }
   }
 
