@@ -11,28 +11,35 @@
     color: blue;  }
   .item2{
     background-color: yellow;
-    color: none;
+    color: yellow;
   }
   .item3{
     background-color: black;
+    color: black
   }
   .item4{
     background-color: violet;
+    color:violet
   }
   .item5{
     background-color: orange;
+    color:orange
   }
   .item6{
     background-color: pink;
+    color:pink
   }
   .item7{
     background-color: red;
+    color:red
   }
   .item8{
     background-color: green;
+    color:green
   }
   .item9{
     background-color: grey;
+    color:grey
   }
 
   @media (max-width: 320px){
