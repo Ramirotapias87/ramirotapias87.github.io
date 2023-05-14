@@ -4,8 +4,8 @@
     grid-auto-rows: 1fr;
     /* grid-gap: 10px; Separacion filas y columnas por igual */
     /*esilos para separar filas y columnas por separado*/
-    grid-column-gap: 30px;
-    grid-row-gap: 15px;
+    grid-column-start: 30px;
+    grid-row-start: 15px;
     text-align: center;
   }
   .item {
