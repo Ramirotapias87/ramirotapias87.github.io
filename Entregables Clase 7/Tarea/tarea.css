@@ -6,11 +6,6 @@ body {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-auto-rows: 1fr;
-    /* grid-gap: 10px; Separacion filas y columnas por igual */
-    /*esilos para separar filas y columnas por separado*/
-    grid-column-gap: 30px;
-    grid-row-gap: 15px;
-    text-align: center;
   }
   
   .item1 {
