@@ -41,9 +41,9 @@ body {
     background-color: grey;
   }
 
-  @media (max-width: 768px) {
+  @media (max-width: 480px){
     .contenedor {
-      grid-template-columns: repeat(2, 1fr); /* cambia a 2 columnas */
-      grid-template-rows: repeat(3, 1fr); /* cambia a 3 filas */
+      grid-template-columns: 1fr;
+      grid-template-rows: repeat(3, 1fr); 
     }
   }
