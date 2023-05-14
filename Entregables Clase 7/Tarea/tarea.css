@@ -1,7 +1,7 @@
   .contenedor{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-auto-rows: 1fr;
+    grid-template-columns: repeat(3, 3fr);
+    grid-auto-rows: 3fr;
     grid-column-gap: 10px;
     grid-row-gap: 10px ;
   }
@@ -44,7 +44,7 @@
 
   @media @media (min-width: 321px) and (max-width:768px) {
     /* estilos para pantallas con un ancho entre 600px y 800px */
-    .container {
+    .contenedor {
       grid-template-columns: repeat(2, 3fr); /* cambia a 2 columnas */
       grid-template-rows: repeat(3, 3fr); /* cambia a 3 filas */
     }
