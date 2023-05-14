@@ -49,9 +49,9 @@
     }
   }
 
-    @media (max-width: 768px){
+    @media (min-width: 321px) and (max-width:768px){
     .contenedor {
-      grid-template-columns: repeat(2, 1fr); 
-      grid-template-rows: repeat(2, 1fr); 
+      grid-template-columns: repeat(2, 3fr); 
+      grid-template-rows: repeat(3, 3fr); 
     }
   }
