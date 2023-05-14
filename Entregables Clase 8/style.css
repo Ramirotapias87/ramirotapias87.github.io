@@ -28,7 +28,7 @@ h2{
     text-decoration:underline;
     text-align: start;
 }
-header {
+head {
     background-color:rgb(255, 0, 0);
     width: 100%;
     height: fit-content;
@@ -37,6 +37,8 @@ header {
 
 h1,h3{
     color: rgb(247, 247, 247);
+    align-content: flex-start;
+    justify-content: center;
 }
 ul{
     display: flex;
@@ -68,6 +70,12 @@ ul{
     flex-direction: row;
     align-items: flex-start ;
  }
+ main{
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
 .Redes{
   display: flex;
   flex-direction: row;
@@ -79,7 +87,7 @@ ul{
   padding: 0px;
   background-color: rgb(229, 233, 233);
 } 
-main{
+.Todos{
   display: flex;
   align-items: center;
   align-content: center;
