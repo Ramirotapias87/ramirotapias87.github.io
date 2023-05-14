@@ -13,10 +13,31 @@ body {
   }
   
   .item1 {
-    background-color: #ddd;
+    background-color: blue;
   }
   .item2{
-    background-color: blue;
+    background-color: yellow;
+  }
+  .item3{
+    background-color: black;
+  }
+  .item4{
+    background-color: violet;
+  }
+  .item5{
+    background-color: orange;
+  }
+  .item6{
+    background-color: pink;
+  }
+  .item7{
+    background-color: red;
+  }
+  .item8{
+    background-color: green;
+  }
+  .item9{
+    background-color: grey;
   }
   
   @media (max-width: 768px) {
