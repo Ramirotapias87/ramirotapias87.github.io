@@ -30,5 +30,5 @@ body {
     grid-column: 1/4;
     grid-row: 3;
     border: 2px solid rgb(16, 37, 223);
-    padding: 10px;
+    padding: 40px;
   }
