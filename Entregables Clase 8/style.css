@@ -61,19 +61,16 @@ ul{
     align-items: flex-start;
  }
   .Categorias{
-    background-color: rgb(153, 156, 156);
     float: left;
     color: #000;
     text-decoration: none;
   }
    .section{
-    background-color: rgb(153, 156, 156);
     display: flex;
     flex-direction: row;
     align-items: flex-start ;
  }
  main{
-  background-color: rgb(153, 156, 156);
   display: flex;
   align-items: center;
   align-content: center;
@@ -95,7 +92,4 @@ ul{
   align-items: center;
   align-content: center;
   justify-content: center;
-}
-footer{
-  background-color: rgb(153, 156, 156);
 }
