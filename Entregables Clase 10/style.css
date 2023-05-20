@@ -87,9 +87,3 @@ ul{
   padding: 0px;
   background-color: rgb(153, 156, 156);
 } 
-.Todos{
-  display: flex;
-  align-items: center;
-  align-content: center;
-  justify-content: center;
-}
