@@ -79,7 +79,7 @@ ul{
 .Redes{
   display: flex;
   flex-direction: row;
-  align-content: flex-end;
+  align-content: center;
   justify-content: flex-start;
   text-decoration-color: black;
   list-style-type: none;
