@@ -77,10 +77,10 @@ ul{
   justify-content: center;
 }
 .Redes{
-  display: flex;
+  display: flex, center;
   flex-direction: row;
   align-content: center;
-  justify-content: center;
+  justify-content: flex-start;
   text-decoration-color: black;
   list-style-type: none;
   margin: 0px;
