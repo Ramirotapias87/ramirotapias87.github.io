@@ -66,7 +66,7 @@ ul{
     text-decoration: none;
   }
   section{
-    display: flex;
+    display: table-row-group;
     flex-direction: row;
     align-items: flex-start ;
  }
