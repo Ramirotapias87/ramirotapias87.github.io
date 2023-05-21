@@ -1,6 +1,6 @@
 *{
     margin: 0px;
-    padding: 8px;
+    padding: 0px;
 }
 /*etiquetas generales*/
 body{
@@ -77,7 +77,7 @@ ul{
   justify-content: center;
 }
 .Redes{
-  display: flex, center;
+  display: flex;
   flex-direction: row;
   align-content: center;
   justify-content: flex-start;
