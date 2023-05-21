@@ -77,17 +77,13 @@ ul{
   justify-content: center;
 }
 .Redes{
-  margin-right: 5px;
-  margin-left: 5px;
-  border-left: 5px;
-  border-right: 5px;
   display: flex;
   flex-direction: row;
   align-content: center;
   justify-content: flex-start;
   text-decoration-color: black;
   list-style-type: none;
-  margin: 0px;
+  margin: 2px;
   padding: 2px;
   background-color: rgb(153, 156, 156);
 } 
