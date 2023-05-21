@@ -65,7 +65,7 @@ ul{
     color: #000;
     text-decoration: none;
   }
-   .section{
+  section{
     display: flex;
     flex-direction: row;
     align-items: flex-start ;
