@@ -1,6 +1,6 @@
 *{
     margin: 0px;
-    padding: 0px;
+    padding: 8px;
 }
 /*etiquetas generales*/
 body{
@@ -84,6 +84,6 @@ ul{
   text-decoration-color: black;
   list-style-type: none;
   margin: 0px;
-  padding: 0px;
+  padding: 2px;
   background-color: rgb(153, 156, 156);
 } 
