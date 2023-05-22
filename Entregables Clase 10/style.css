@@ -68,12 +68,14 @@ ol{
     align-items: flex-start;
  }
  .Categorias{
-  padding: 0px;
-  margin: 0px;
-  background-color:rgb(153, 156, 156);
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  padding: 2px;
+  margin: 0px;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
  }
   section{
     display: flex;
