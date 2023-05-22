@@ -69,7 +69,7 @@ ol{
  }
  .Categorias{
   padding: 0px;
-  margin: auto;
+  margin: 0px;
   background-color:rgb(153, 156, 156);
   display: flex;
   flex-direction: column;
