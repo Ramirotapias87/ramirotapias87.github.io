@@ -79,3 +79,61 @@ switch (palabra) {
     console.log("Hola mundo");
     break;
 }
+
+
+//*ITERACION *//
+//*FOR*//
+
+let nombre =["Diego", "Anabel", "Esteban"];
+console.log(nombre);
+console.log(nombre[0]);
+console.log(nombre[2]);
+console.log("Cantidad de nombre:", nombre.length);
+for(let i = 0; i< nombre.length; i++){
+console.log(nombre[i])
+}
+
+//*    I++ es lo mismo que hacer i=i+1  //*
+
+//*i<3 nombre[i] //*
+//* 1er vuelta -> nombre[0] //*
+//* 2da vuelta -> nombre[1] //*
+//*3er vuelta -> nombre[2] //*
+
+
+const nombres = ["MARCOS", "PRISCILA", "RAMIRO"];
+for (let index = 0; index < nombres.length; index++) {
+  console.log(nombres[index]);
+}
+
+const frutas = ["..", "..", "..", "..", "..", "..", ".."];
+for(let i=0; i<frutas.length; i++) {
+console.log("El elemento es: " + frutas[i])
+}
+//*push() agrega valor de la lista//*
+const frutas = ["🍎", "🍏"];
+for (let index = 0; index < frutas.length; index++) {
+  console.log("El elemento es: ", frutas[index]);
+}
+const nombres = ["MARCOS", "PRISCILA", "RAMIRO"];
+nombres.push("NATALIA");
+console.log(nombres);
+
+
+//*pop()- elimina valor de la lista//*
+const nombres = ["MARCOS", "PRISCILA", "RAMIRO"];
+nombres.push("NATALIA");
+console.log(nombres);
+nombres.pop();
+console.log(nombres);
+
+
+
+//*WHILE==MIENTRAS//*
+
+let count = 50;
+let contador = 0;
+while (count > contador) {
+  console.log("Hola chicos RD");
+  contador++;
+}
