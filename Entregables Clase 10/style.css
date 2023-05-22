@@ -75,7 +75,6 @@ ol{
 .AGUA{
   width:  400px;
   height: 160px;
-  border-radius: 5px;
   background-color: #aa0404;
   padding: 30px;
   float: left;
@@ -84,7 +83,6 @@ ol{
  .PLUVIALES{
   width:  400px;
   height: 160px;
-  border-radius: 5px;
   background-color: #aa0404;
   padding: 30px;
   float: inherit;
@@ -93,7 +91,6 @@ ol{
  .GAS{
   width:  400px;
   height: 160px;
-  border-radius: 5px;
   background-color: #aa0404;
   padding: 30px;
   float: right;
