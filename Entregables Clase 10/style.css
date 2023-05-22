@@ -76,7 +76,7 @@ ol{
   width:  400px;
   height: 160px;
   background-color: #aa0404;
-  float: left;
+  float: inherit;
   margin: 15px;
 }
  .PLUVIALES{
