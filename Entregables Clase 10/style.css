@@ -67,14 +67,6 @@ ol{
     flex-direction: row;
     align-items: flex-start;
  }
- .class.Categorias {
-  display: flex;
-  flex-direction: column;
-  display: flex;
-  align-items: flex-start;
-  align-content: flex-start;
-  justify-content: flex-start;
- }
   section{
     display: flex;
     flex-direction: row;
