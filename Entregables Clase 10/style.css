@@ -80,12 +80,5 @@ ol{
     flex-direction: row;
     align-items: flex-start ;
  }
- main{
-  padding: 2px;
-  margin: 0px;
-  display: flex;
-  align-items: center;
-  align-content: center;
-  justify-content: center;
-}
+
  
