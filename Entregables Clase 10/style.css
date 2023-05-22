@@ -66,13 +66,13 @@ ul{
     text-decoration: none;
   }
   section{
-    margin-inline-start: 2px;
-    padding-inline-start: 2px; 
-    display: table-cell;
+    display: flex;
     flex-direction: row;
     align-items: flex-start ;
  }
  main{
+  padding: 2px;
+  margin: 2px;
   display: flex;
   align-items: center;
   align-content: center;
