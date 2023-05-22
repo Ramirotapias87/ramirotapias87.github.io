@@ -67,11 +67,6 @@ ol{
     flex-direction: row;
     align-items: flex-start;
  }
-  .Categorias{
-    float: left;
-    color: #000;
-    text-decoration: none;
-  }
   section{
     display: flex;
     flex-direction: row;
