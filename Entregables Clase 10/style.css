@@ -73,8 +73,8 @@ ol{
     align-items: flex-start ;
  }
 .AGUA{
-  width:  150px;
-  height: 100px;
+  width:  400px;
+  height: 160px;
   border-radius: 5px;
   background-color: #aa0404;
   padding: 30px;
@@ -82,8 +82,8 @@ ol{
   margin: 15px;
 }
  .PLUVIALES{
-  width:  150px;
-  height: 100px;
+  width:  400px;
+  height: 160px;
   border-radius: 5px;
   background-color: #aa0404;
   padding: 30px;
@@ -91,8 +91,8 @@ ol{
   margin: 15px;
  }
  .GAS{
-  width:  150px;
-  height: 100px;
+  width:  400px;
+  height: 160px;
   border-radius: 5px;
   background-color: #aa0404;
   padding: 30px;
