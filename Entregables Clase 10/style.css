@@ -66,6 +66,7 @@ ul{
     text-decoration: none;
   }
   section{
+    padding: 0px; 
     display: table-cell;
     flex-direction: row;
     align-items: flex-start ;
