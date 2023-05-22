@@ -67,7 +67,7 @@ ol{
     flex-direction: row;
     align-items: flex-start;
  }
- Categorias{
+ .Categorias{
     display: flex;
     flex-direction: row;
     align-items: flex-start;
