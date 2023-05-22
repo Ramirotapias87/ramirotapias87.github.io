@@ -90,6 +90,6 @@ ol{
   width:  400px;
   height: 160px;
   background-color: #aa0404;
-  float: right;
+  float: inherit;
   margin: 15px;
  }
