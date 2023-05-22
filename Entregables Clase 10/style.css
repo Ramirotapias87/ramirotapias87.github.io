@@ -67,6 +67,9 @@ ol{
     flex-direction: row;
     align-items: flex-start;
  }
+ .Categorias{
+  padding: 8px;
+ }
   section{
     display: flex;
     flex-direction: row;
