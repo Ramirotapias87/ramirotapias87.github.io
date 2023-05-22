@@ -40,16 +40,17 @@ h1,h3{
     align-content: flex-start;
     justify-content: center;
 }
-ul{
+
+  li a {
+    color: #000;
+    padding: 8px 50px;
+    text-decoration: none;
+    background-color: #dddddd;
+    text-justify: auto;
     display: flex;
     flex-direction: row;
-    align-content: flex-start;
-    list-style-type: none;
-    margin: 5px;
-    padding: 0px;
-    width: 100%;
-    background-color:  rgb(153, 156, 156);
-}
+    align-items: flex-start;
+ }
   .Categorias{
     float: left;
     color: #000;
