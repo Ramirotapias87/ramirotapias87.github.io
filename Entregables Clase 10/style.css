@@ -57,7 +57,16 @@ ol{
   list-style-type: none;
   background-color: rgb(153, 156, 156);
 }
- 
+  li a {
+    color: #000;
+    padding: 8px 50px;
+    text-decoration: none;
+    background-color: #dddddd;
+    text-justify: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+ }
  .Categorias{
   display: flex;
   flex-direction: column;
