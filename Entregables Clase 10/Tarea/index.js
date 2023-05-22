@@ -34,7 +34,7 @@ console.log(’Aprobado’);
 } else {
 console.log(’Sobresaliente’);
 }
- //*Switch Case//*
+ //*Switch Case switch(CONDICION){casos}//*
  let expr= "Adios";
 switch (expr) (
 case 'Hola' :
