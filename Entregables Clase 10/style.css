@@ -78,16 +78,4 @@ ul{
   align-content: center;
   justify-content: center;
 }
-.Redes{
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  align-self: center;
-  align-content: center;
-  justify-content: flex-start;
-  text-decoration-color: black;
-  list-style-type: none;
-  margin: 2px;
-  padding: 2px;
-  background-color: rgb(153, 156, 156);
-} 
+ 
