@@ -70,8 +70,6 @@ ol{
  .Categorias{
   display: flex;
   flex-direction: column;
-  padding: 2px;
-  margin: 0px;
   display: flex;
   align-items: flex-start;
   align-content: flex-start;
