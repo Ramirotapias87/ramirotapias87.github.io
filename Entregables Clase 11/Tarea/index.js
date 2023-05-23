@@ -16,7 +16,7 @@ if(helado+Oreo){
 }
 
 
-//*Pedido*//
+//*Pedido--SWITCH*//
 
 const menu="carne, pescado o verduras"
 switch(menu) {
@@ -33,7 +33,7 @@ switch(menu) {
         console.log("elija carne, pescado o verdura")
         break;
 }
-
+//* FOR *//
 const carnes=["lomo","cuadril","nalga","peceto"];
 for (let index=0; index < carnes.length; index++){
 console.log("recorrer",index);
@@ -44,3 +44,9 @@ for (let index=0; index < carnes.length; index++)
 console.log(carnes);
 
 
+//*WHILE*//
+let count= numero;
+while(count<11){
+    console.log("numero es más chico que 11");
+    count++
+}
