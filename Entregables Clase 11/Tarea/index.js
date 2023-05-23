@@ -19,17 +19,17 @@ if(helado+Oreo){
 //*Pedido*//
 
 const menu="carne, pescado o verduras"
-switch(menu){
-    case"carne"
+switch(menu) {
+    case carne:
     console.log("se le ofrece vino tinto")
     break;
-    case"pescado"
+    case pescado:
     console.log("se le ofrece vino blanco")
     break;
-    case"verdura"
+    case verdura:
     console.log("se le ofrece agua")
     break;
     default:
-        console.log("elija carne, pescado o verdura");
+        console.log("elija carne, pescado o verdura")
         break;
 }
