@@ -13,3 +13,12 @@ if(helado+Oreo){
 }else{
     console.log("No tenemos ese topping");
 }
+
+
+
+const mayorEdad=18;
+if(mayorEdad >= 18){
+    console.log("Es mayor de edad");
+}else{
+    console.log("Es menor de edad");
+}
