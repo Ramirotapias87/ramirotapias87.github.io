@@ -1,7 +1,15 @@
+let helado=150;
+let topping=[Oreo=10,KitKat=15,Kinder=25];
+let precio=[Oreo, KitKat,Kinder];
+let precioFinal=precio+helado;
 
-const mayorEdad=18;
-if(mayorEdad >= 18){
-    console.log("Es mayor de edad");
+
+if(helado+Oreo){
+    console.log("El helado cuesta $ "+precioFinal);
+}else if(helado+KitKat){
+    console.log("El helado cuesta $ "+precioFinal);
+}else if(helado+Kinder){
+    console.log("El helado cuesta $ "+precioFinal);
 }else{
-    console.log("Es menor de edad");
+    console.log("No tenemos ese topping");
 }
