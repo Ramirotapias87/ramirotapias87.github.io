@@ -1,6 +1,6 @@
 let helado=150;
 let topping=[Oreo=10,KitKat=15,Kinder=25];
-let precio=[Oreo, KitKat,Kinder];
+let precio=[Oreo,KitKat,Kinder];
 let precioFinal=precio+helado;
 
 
