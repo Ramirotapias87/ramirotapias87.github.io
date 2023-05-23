@@ -1,6 +1,6 @@
 let helado=150;
 let topping=["Oreo","KitKat","Kinder"];
-let precio=[10,15,25];
+let precio=topping
 let precioFinal=precio+helado;
 
 if(helado+Oreo){
