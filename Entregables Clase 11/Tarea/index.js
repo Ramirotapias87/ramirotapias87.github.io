@@ -33,3 +33,9 @@ switch(menu) {
         console.log("elija carne, pescado o verdura")
         break;
 }
+
+const carnes=["lomo","cuadril","nalga","peceto"];
+for (let index=0; index < carnes.length; index++){
+console.log("vuelta",index);
+console.log(carnes[index]);
+}
