@@ -45,8 +45,8 @@ console.log(carnes);
 
 
 //*WHILE*//
-let count= numero;
 let numero =11;
+let count= numero;
 while(count<11){
     console.log("numero es más chico que 11");
     numero++
