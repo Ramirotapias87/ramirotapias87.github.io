@@ -41,7 +41,6 @@ console.log(carnes[index]);
 }
 carnes.push("tortuguita");
 for (let index=0; index < carnes.length; index++)
-console.log("vuelta",index);
-console.log(carnes[index]);
+console.log(carnes);
 
 
