@@ -36,7 +36,7 @@ switch(menu) {
 
 const carnes=["lomo","cuadril","nalga","peceto"];
 for (let index=0; index < carnes.length; index++){
-console.log("vuelta",index);
+console.log("recorrer",index);
 console.log(carnes[index]);
 }
 carnes.push("tortuguita");
