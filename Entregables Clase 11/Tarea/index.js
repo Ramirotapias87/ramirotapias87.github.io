@@ -1,3 +1,4 @@
+//*Heladeria Siempre Frio*//
 let helado=150;
 let topping=[Oreo=10,KitKat=15,Kinder=25];
 let precio=[Oreo,KitKat,Kinder];
@@ -13,3 +14,8 @@ if(helado+Oreo){
 }else{
     console.log("No tenemos ese topping");
 }
+
+
+//*Pedido*//
+
+
