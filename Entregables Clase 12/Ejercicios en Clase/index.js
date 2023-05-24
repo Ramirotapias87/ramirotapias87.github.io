@@ -4,13 +4,6 @@ function saludo(persona) {
 saludo("Ramiro");
 
 
-
-function sumar2(a+b) {
-    console.log(a+b);
-}
-sumar(a+b)
-
-
 function sumar(n1,n2) {
     console.log(n1+n2);
 }
