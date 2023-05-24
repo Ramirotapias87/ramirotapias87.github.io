@@ -64,7 +64,12 @@ const parOimpar=(num) =>{
     }else{
         return " El numero es impar";
 }
-};
+}
 
-let result = parOimpar(3); // calcular y devuelve
+
+let result = parOimpar(3);
+let ingresaNum= prompt("ingrese un numero para verificar paridad")
+let result= parOimpar(ingresaNum) // calcular y devuelve
 console.log(result);
+console.log("Desde clg", parOimpar(100));
+console.log("Desde clg", parOimpar(101));
