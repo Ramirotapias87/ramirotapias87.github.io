@@ -1,13 +1,13 @@
 function saludo(persona) {
     console.log("Hola "+ persona);
 }
-saludo("Ramiro");
+ //saludo("Ramiro");
 
 
 function sumar(n1,n2) {
     console.log(n1+n2);
 }
-sumar(3,2)
+// sumar(3,2)
 
 
 //* arrow function *//
@@ -24,7 +24,7 @@ function suma_y_muestra() {
     resultado=num1+num2;
     alert("El resultado es" + resultado);   
 }
-suma_y_muestra();
+//suma_y_muestra();
 
 
 function calcularPrecioTotal(n1,n2){
@@ -32,7 +32,7 @@ function calcularPrecioTotal(n1,n2){
     alert(`El resutado de ${n1} +${n2} es: ${resultado}`);
     
 }
-sumar(100,100);
+// sumar(100,100);
 
 //*template literal*//
 
@@ -55,4 +55,16 @@ function calcularPrecioTotal(precio){
 
 // llamada a la funcion
 
-calcularPrecioTotal(50);
+// calcularPrecioTotal(50);
+
+
+const parOimpar=(num) =>{
+    if (num % 2 ===0){
+      return"El numero es par";
+    }else{
+        return " El numero es impar";
+}
+};
+
+let result = parOimpar(3); // calcular y devuelve
+console.log(result);
