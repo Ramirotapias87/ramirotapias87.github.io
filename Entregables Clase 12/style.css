@@ -90,7 +90,7 @@ ol{
   margin: 15px;
  }
 .form-check-input{
-  align-items: inherit;
-  justify-content: inherit;
-  align-self: inherit;
+  align-items: end;
+  justify-content: end;
+  align-self: flex-end;
 }
