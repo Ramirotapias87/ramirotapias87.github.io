@@ -68,11 +68,13 @@ ol{
     align-items: flex-start;
  }
   aside{
+    bottom: unset;
+    border-bottom: rgb(255, 0, 0);
+    background-color: black;
     display: flex;
     flex-direction: column;
     align-items: flex-end ;
     align-content: flex-end;
-    caption-side: bottom;
  }
 .AGUA{
   width:  400px;
