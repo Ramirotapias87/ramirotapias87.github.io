@@ -99,6 +99,7 @@ ol{
   padding: 4px;
 }
 .Menu{
+  background-attachment: scroll;
 content: center;
  align-items: center;
  justify-content: center;
@@ -109,8 +110,6 @@ content: center;
   margin-top: 10px;
   width: 750px;
   height: 500px;
-  background-image: color, red;
-  border-color: aliceblue;
 }
 aside{
   display: ;
