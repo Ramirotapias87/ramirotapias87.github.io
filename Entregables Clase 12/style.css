@@ -106,6 +106,9 @@ content: center;
  justify-content: center;
  align-content: center;
 }
+footer{
+  margin: 10px;
+}
 .Equipo{
   padding-top: 10px;
   margin-top: 10px;
