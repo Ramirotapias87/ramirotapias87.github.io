@@ -117,7 +117,8 @@ footer{
 }
 aside{
   display: table-caption;
-  vertical-align: bottom;
+  vertical-align: text-bottom;
+  align-content: end;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 32px;
 }
