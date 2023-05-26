@@ -116,8 +116,6 @@ footer{
   height: 500px;
 }
 aside{
-  position: absolute;
-  z-index: 2;
   display: table-caption;
   text-align-last: justify;
   vertical-align: text-bottom;
