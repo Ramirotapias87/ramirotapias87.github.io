@@ -90,5 +90,6 @@ ol{
   margin: 15px;
  }
  .tiposexo{ 
-  background-color: aqua;
+  bottom: auto;
+  border-bottom: #aa0404;
  }
