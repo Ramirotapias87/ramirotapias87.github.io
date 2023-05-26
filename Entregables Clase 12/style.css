@@ -109,15 +109,3 @@ content: center;
 footer{
   margin: 50px;
 }
-.Equipo{
-  align-content: end;
-  padding-top: 10px;
-  margin-top: 10px;
-  width: 750px;
-  height: 500px;
-}
-aside{
-  grid-column: 1;
-  grid-row: 1;
-  font-size: 32px;
-}
