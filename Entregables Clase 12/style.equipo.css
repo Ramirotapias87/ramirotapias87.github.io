@@ -6,6 +6,8 @@ body{
     background-color: rgb(153, 156, 156);
 }
 .Equipo{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
     align-content: end;
     padding-top: 10px;
     margin-top: 10px;
