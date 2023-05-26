@@ -112,6 +112,7 @@ footer{
 .Equipo{
   align-items: end;
   align-content: end;
+  justify-content: end;
   padding-top: 10px;
   margin-top: 10px;
   width: 750px;
