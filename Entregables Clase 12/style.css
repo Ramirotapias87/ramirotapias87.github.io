@@ -90,6 +90,8 @@ ol{
   margin: 15px;
  }
 .form-check-input{
+  margin-left: 200px;
+  padding-left: 200px;
   align-items: end;
   justify-content: end;
   align-self: flex-end;
