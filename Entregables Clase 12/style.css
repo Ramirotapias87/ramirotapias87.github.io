@@ -94,6 +94,8 @@ ol{
   padding: 4px;
 }
 .Menu{
+content: center;
  align-items: center;
  justify-content: center;
+ align-content: center;
 }
