@@ -71,7 +71,7 @@ ol{
     bottom: unset;
     border-bottom: rgb(255, 0, 0);
     background-color: black;
-    display: flex;
+    display: table-column;
     flex-direction: column;
     align-items: flex-end ;
     align-content: flex-end;
