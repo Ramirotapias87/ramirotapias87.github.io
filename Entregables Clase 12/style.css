@@ -93,3 +93,7 @@ ol{
   margin: 8px;
   padding: 4px;
 }
+.Menu{
+ align-items: center;
+ justify-content: center;
+}
