@@ -36,9 +36,14 @@ head {
 }
 
 h1,h3{
+  margin-top: 8px;
     color: rgb(8, 8, 8);
     align-content: flex-start;
     justify-content: center;
+}
+ p{
+margin: 8px;
+padding: 8px;
 }
 ul{
     display: flex;
