@@ -89,3 +89,8 @@ ol{
   float: inherit;
   margin: 15px;
  }
+.form-check-input{
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+}
