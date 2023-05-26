@@ -8,11 +8,6 @@ body{
 .Equipo{
     display: grid;
     grid-template-columns: 2fr 2fr;
-    align-content: end;
-    padding-top: 10px;
-    margin-top: 10px;
-    width: 750px;
-    height: 500px;
   }
   aside{
     grid-column: 1;
