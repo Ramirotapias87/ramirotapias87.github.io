@@ -67,12 +67,7 @@ ol{
     flex-direction: row;
     align-items: flex-start;
  }
-  aside{
-    bottom: unset;
-    border-bottom: rgb(255, 0, 0);
-    display: block;
-    align-self: flex-end;
- }
+ 
 .AGUA{
   width:  400px;
   height: 160px;
