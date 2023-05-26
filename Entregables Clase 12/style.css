@@ -111,7 +111,6 @@ footer{
 
 aside{
   display: grid;
-    grid-template-columns: 580px 1fr;
     font-size: 32px;
     align-items: center;
     justify-content: center;
