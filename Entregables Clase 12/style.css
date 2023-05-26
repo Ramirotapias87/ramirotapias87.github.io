@@ -110,7 +110,7 @@ footer{
   margin: 50px;
 }
 .Equipo{
-  position: absolute;
+  align-items: end;
   align-content: end;
   padding-top: 10px;
   margin-top: 10px;
