@@ -1,3 +1,10 @@
+
+ *{   margin: 0px;
+    padding: 4px;
+}
+body{
+    background-color: rgb(153, 156, 156);
+}
 .Equipo{
     align-content: end;
     padding-top: 10px;
@@ -10,4 +17,3 @@
     grid-row: 1;
     font-size: 32px;
   }
-  
