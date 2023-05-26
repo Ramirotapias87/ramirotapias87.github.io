@@ -70,7 +70,7 @@ ol{
   aside{
     bottom: unset;
     border-bottom: rgb(255, 0, 0);
-    display: flexbox;
+    display: block;
     align-self: flex-end;
  }
 .AGUA{
