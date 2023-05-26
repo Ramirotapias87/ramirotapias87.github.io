@@ -119,9 +119,5 @@ footer{
 aside{
   grid-column: 1;
   grid-row: 1;
-  display: table-caption;
-  text-align-last: justify;
-  vertical-align: text-bottom;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 32px;
 }
