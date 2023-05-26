@@ -91,7 +91,7 @@ ol{
  }
 .form-check-input{
   margin:initial;
-  align-items: center;
-  justify-content: center;
-  align-self: flex-start;
+  align-items: end;
+  justify-content: end;
+  align-self: flex-end;
 }
