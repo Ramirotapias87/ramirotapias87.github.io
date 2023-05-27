@@ -19,7 +19,7 @@ body{
 
 .Intro{
   background-color: #dddddd;
-  align-items: end;
+  align-content: end;
   padding: 50px;
   color: rgb(9, 10, 10);
 }
