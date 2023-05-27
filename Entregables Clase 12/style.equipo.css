@@ -13,7 +13,19 @@ body{
     justify-content: center;
   }
 
-  footer{
-    margin: 50px;
+  button{
+
+    background-color: red !important;
+    border-color: white !important;
+    border-style: double;
+    font-size: medium;
+    color: white !important;
+    text-decoration-color:white !important ;
+    align-content: center;
+    justify-content: center;
+    
   }
-  
+  a{
+    color: white !important;
+    background-color: red !important;
+  }
