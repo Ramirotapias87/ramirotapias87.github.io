@@ -27,5 +27,5 @@ input{
   text-decoration-color:white !important;
   border-style: double;
   border-block-start-width: 2px !important;
-
+border-block-end-color: red !important ;
 }
