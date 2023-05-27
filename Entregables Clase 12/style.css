@@ -39,7 +39,7 @@ head {
 }
 h1,h3{
   margin: 8px;
-    color: rgb(8, 8, 8);
+    color:  white;
     align-content: flex-start;
 }
  p{
@@ -147,6 +147,17 @@ button{
   font-size: medium;
   color: white !important;
   text-decoration-color:white !important ;
+  align-content: center;
+  justify-content: center;
+  
+}
+table{
+  
+  background-color:rgb(153, 156, 156) !important;
+  border-color: white !important;
+  border-style: double;
+  font-size: medium;
+  color: white !important;
   align-content: center;
   justify-content: center;
   
