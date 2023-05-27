@@ -29,3 +29,7 @@ input{
   width: 10em !important;
   
 }
+a{
+  color: white !important;
+  background-color: red !important;
+}
