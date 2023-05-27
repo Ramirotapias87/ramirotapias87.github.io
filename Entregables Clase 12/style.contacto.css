@@ -17,11 +17,14 @@ button{
   border-color: white !important;
   font-size: medium;
   text-decoration-color:white !important ;
-  color-scheme: red !important;
+  
 }
 input{
   border-color: white !important;
   text-decoration-color:white !important;
 
 }
+.form-check form-switch{
+  background-color: red !important;
+
 }
