@@ -71,21 +71,21 @@ ul{
 .AGUA{
   width:  400px;
   height: 160px;
-  background-color: #aa0404;
+  background-color: red;
   float: inherit;
   margin: 15px;
 }
  .PLUVIALES{
   width:  400px;
   height: 160px;
-  background-color: #aa0404;
+  background-color:red;
   float: inherit;
   margin: 15px;
  }
  .GAS{
   width:  400px;
   height: 160px;
-  background-color: #aa0404;
+  background-color: red;
   float: inherit;
   margin: 15px;
  }
@@ -112,4 +112,7 @@ aside{
 a{
   color: white !important;
   background-color: red !important;
+}
+d-grid gap-2{
+  text-decoration: double !important;
 }
