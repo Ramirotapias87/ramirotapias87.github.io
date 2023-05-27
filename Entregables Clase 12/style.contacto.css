@@ -22,6 +22,6 @@ button{
 input{
   border-color: white !important;
   text-decoration-color:white !important;
-  border-width: 2px;
+  border-style: double;
 
 }
