@@ -101,9 +101,7 @@ ol{
 .Menu{
   background-attachment: scroll;
 content: center;
- align-items: center;
- justify-content: center;
- align-content: center;
+
 }
 footer{
   margin: 50px;
