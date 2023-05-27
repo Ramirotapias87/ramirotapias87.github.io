@@ -17,15 +17,13 @@ button{
   border-color: white !important;
   font-size: medium;
   text-decoration-color:white !important ;
+  align-content: center;
+  justify-content: center;
   
 }
 input{
   border-color: white !important;
   text-decoration-color:white !important;
   border-style: double;
-  justify-items: center;
-  justify-content: center;
-  align-items: center;
-  align-content: center;
 
 }
