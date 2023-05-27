@@ -23,5 +23,6 @@ input{
   border-color: white !important;
   text-decoration-color:white !important;
   border-style: double;
+  justify-items: center;
 
 }
