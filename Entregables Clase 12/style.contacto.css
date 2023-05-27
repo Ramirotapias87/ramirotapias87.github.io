@@ -11,3 +11,7 @@ margin-right: 600px;
 margin-left: 600px;
   padding: 20px;
 }
+.btn btn-danger{
+
+  border-bottom-style: solid !important;
+}
