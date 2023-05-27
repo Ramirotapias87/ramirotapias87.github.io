@@ -4,7 +4,7 @@
 }
 /*etiquetas generales*/
 body{
-    background-color: rgb(153, 156, 156);
+ background-color: {rgb(153, 156, 156) !important;}
 }
 
 .Logo{
