@@ -44,6 +44,7 @@ h1,h3{
  p{
 margin: 8px;
 padding: 8px;
+font-size: 18px;
 }
 li a {
   padding: 8px 50px;
@@ -60,8 +61,6 @@ ul{
     flex-direction: row;
     justify-content: center;
     list-style-type: none;
-    margin: 5px;
-    padding: 0px;
     width: 100%;
     background-color:  rgb(153, 156, 156);
 }
@@ -110,6 +109,7 @@ aside{
 a{
   color: white !important;
   background-color: red !important;
+
 }
 d-grid gap-2{
   text-decoration: double !important;
@@ -122,10 +122,12 @@ ol.Redes{
   text-decoration-color:white !important ;
   align-content: center;
   justify-content: center;
-  color: white !important;
   background-color: none !important;
 }
 button.btn.btn-danger{
   block-size: 70px;
-  font-size: 24px;
+  font-size: 22px;
+}
+a.dropdown-item{
+  font-size: 16px !important;
 }
