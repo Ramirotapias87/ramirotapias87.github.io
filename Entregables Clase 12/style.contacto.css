@@ -5,5 +5,5 @@
 div{
   margin: 5px;
   padding: auto;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
