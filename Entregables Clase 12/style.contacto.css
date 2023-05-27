@@ -6,6 +6,8 @@ body{
   margin: 8 px;
 }
 footer{
+  display: flex;
+  align-self: inherit;
   align-items: center;
   align-content: space-around;
 }
