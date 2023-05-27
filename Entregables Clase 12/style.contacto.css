@@ -5,4 +5,7 @@
 body{
   margin: 8 px;
 }
-
+footer{
+  align-items: center;
+  align-content: space-around;
+}
