@@ -19,6 +19,7 @@ body{
 
 .Intro{
   background-color: #dddddd;
+  align-items: end;
   padding: 50px;
   color: rgb(9, 10, 10);
 }
