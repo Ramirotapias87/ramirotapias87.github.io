@@ -28,3 +28,6 @@ input{
   border-style: double;
 
 }
+.btn btn-primary{
+  background-color: aqua !important;
+}
