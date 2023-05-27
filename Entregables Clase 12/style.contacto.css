@@ -22,5 +22,6 @@ button{
 input{
   border-color: white !important;
   text-decoration-color:white !important;
+  border-radius: 02px;
 
 }
