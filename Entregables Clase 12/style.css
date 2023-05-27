@@ -11,7 +11,7 @@ body{
   width:  150px;
   height: 100px;
   border-radius: 5px;
-  background-color: #aa0404;
+  background-color: red;
   padding: 30px;
   float: left;
   margin: 15px;
@@ -116,6 +116,14 @@ a{
 d-grid gap-2{
   text-decoration: double !important;
 }
-.link{
-background-color: aqua !important;
+ol.Redes{
+  background-color: red !important;
+  border-color: white !important;
+  border-style: double;
+  font-size: medium;
+  text-decoration-color:white !important ;
+  align-content: center;
+  justify-content: center;
+  color: white !important;
+  background-color: none !important;
 }
