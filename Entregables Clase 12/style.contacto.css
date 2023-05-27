@@ -26,7 +26,5 @@ input{
   border-color: white !important;
   text-decoration-color:white !important;
   border-style: double;
-  border-block-end-style: 2px !important;
-  border-block-end-color: red !important ;
-  border-color: red !important;
+  border-color: white !important;
 }
