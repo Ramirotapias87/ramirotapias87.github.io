@@ -11,10 +11,11 @@ footer{
 form{
   margin: 200px;
   padding: 10px;;
-  width: 500px;
-  height: 20px;
+  inline-size: 500px;
+  block-size: 20px;
   }
-  .Todos{;
+  .Todos{
+    margin-top: 500px;
     align-items: center;
     align-content: center
   }
