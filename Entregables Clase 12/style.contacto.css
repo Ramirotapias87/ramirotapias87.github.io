@@ -15,6 +15,7 @@ button{
 
   background-color: red !important;
   border-color: white !important;
+  border-style: double;
   font-size: medium;
   text-decoration-color:white !important ;
   align-content: center;
