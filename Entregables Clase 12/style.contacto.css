@@ -24,5 +24,6 @@ input{
   text-decoration-color:white !important;
   border-style: double;
   justify-items: center;
+  justify-content: center;
 
 }
