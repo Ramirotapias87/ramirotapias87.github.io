@@ -126,3 +126,7 @@ ol.Redes{
   color: white !important;
   background-color: none !important;
 }
+button.btn.btn-danger{
+  block-size: 70px;
+  font-size: 24px;
+}
