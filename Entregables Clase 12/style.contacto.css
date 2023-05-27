@@ -8,4 +8,8 @@ body{
 footer{
     margin: 50px;
   }
-  
+.btn btn-primary{
+  display: flex;
+  width: 500px;
+  height: 20px;
+  }
