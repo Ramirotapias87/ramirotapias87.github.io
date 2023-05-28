@@ -27,7 +27,6 @@ body{
 h2{
     color: rgb(20, 19, 19);
     text-decoration:underline;
-    text-align: start;
 }
 head {
   border-bottom-width:10px;
@@ -37,11 +36,14 @@ head {
     height: fit-content;
     display: 100%;
 }
-h1,h3{
-  margin: 8px;
-    color:  white;
-    align-content: flex-start;
+
+h3,h5{
+margin: 8px;
+font-style: oblique;
+text-decoration: underline;
+text-decoration-color: white;
 }
+
  p{
 margin: 8px;
 padding: 8px;
