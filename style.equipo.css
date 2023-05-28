@@ -1,0 +1,31 @@
+
+ *{ margin: 8px;
+    padding: 4px;
+}
+body{
+    background-color: rgb(153, 156, 156);
+}
+.Equipo{
+    display: grid;
+    grid-template-columns: 580px 1fr;
+    font-size: 32px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  button{
+
+    background-color: red !important;
+    border-color: white !important;
+    border-style: double;
+    font-size: medium;
+    color: white !important;
+    text-decoration-color:white !important ;
+    align-content: center;
+    justify-content: center;
+    
+  }
+  a{
+    color: white !important;
+    background-color: red !important;
+  }

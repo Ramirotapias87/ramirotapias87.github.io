@@ -1,0 +1,36 @@
+*{
+  background-color: rgb(153, 156, 156) !important;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-top: 5px;
+}
+
+form{
+margin-right: 600px;
+margin-left: 600px;
+  padding: 20px;
+}
+button{
+
+  background-color: red !important;
+  border-color: white !important;
+  border-style: double;
+  font-size: medium;
+  color: white !important;
+  text-decoration-color:white !important ;
+  align-content: center;
+  justify-content: center;
+  
+}
+input{
+  border-color: white !important;
+  text-decoration-color:white !important;
+  border-style: double;
+  width: 10em !important;
+  
+}
+a{
+  color: white !important;
+  background-color: red !important;
+}
