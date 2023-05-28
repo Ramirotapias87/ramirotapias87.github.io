@@ -68,7 +68,7 @@ ul{
 
 .contenedor-imagenes{
   display: flex;
-  flex-direction: row;
+  flex-wrap: wrap;
   background-color:  rgb(153, 156, 156);
   padding: 10px;
   border: 2px solid red;
