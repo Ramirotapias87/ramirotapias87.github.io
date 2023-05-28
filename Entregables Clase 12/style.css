@@ -72,7 +72,10 @@ ul{
   background-color:  rgb(153, 156, 156);
   padding: 10px;
   border: 2px solid red;
-
+}
+.contenedor-imagenes div{
+  background-color: red;
+  border: 2px solid white;
 }
  
 .Categorias{
