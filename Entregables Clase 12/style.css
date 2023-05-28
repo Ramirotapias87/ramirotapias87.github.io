@@ -67,11 +67,12 @@ ul{
 }
 
 .contenedor-imagenes{
-  width:  400px;
-  height: 160px;
+  display: flex;
   background-color: red;
-  float: inherit;
-  margin: 15px;
+  padding: 10px;
+  border: 2px solid red;
+
+ 
 }
  
 .Categorias{
