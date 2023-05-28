@@ -150,3 +150,13 @@ table{
   justify-content: center;
   
 }
+
+.imagenes-herramientas{
+  display: flex;
+  justify-content: space-evenly;
+  background-color:  rgb(153, 156, 156);
+  padding: 10px;
+  margin-bottom: 30px;
+ 
+
+}
