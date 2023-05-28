@@ -68,7 +68,7 @@ ul{
 
 .contenedor-imagenes{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   background-color:  rgb(153, 156, 156);
   padding: 10px;
  
