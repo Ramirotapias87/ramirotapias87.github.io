@@ -66,34 +66,14 @@ ul{
     background-color:  rgb(153, 156, 156);
 }
 
-.AGUA{
+.contenedor-imagenes{
   width:  400px;
   height: 160px;
   background-color: red;
   float: inherit;
   margin: 15px;
 }
- .PLUVIALES{
-  width:  400px;
-  height: 160px;
-  background-color:red;
-  float: inherit;
-  margin: 15px;
- }
- .GAS{
-  width:  400px;
-  height: 160px;
-  background-color: red;
-  float: inherit;
-  margin: 15px;
- }
- .ACCESORIOS {
-  width:  400px;
-  height: 160px;
-  background-color: red;
-  float: inherit;
-  margin: 15px;
- }
+ 
 .Categorias{
   margin: 8px;
   padding: 4px;
