@@ -154,7 +154,6 @@ table{
 
 .whatsapp img {
   position: fixed;
-  z-index: 3; /*No es necesario*/
   width: 60px;
   height: 58px;
   bottom: 8px;
