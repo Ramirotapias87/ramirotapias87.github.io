@@ -151,7 +151,9 @@ table{
   padding: 10px;
   margin-bottom: 30px;
 }
-div.whatsapp{
+#whatsapp{
   display: flex;
   position: fixed;
+  right: 20;
+ 
 }
