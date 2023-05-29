@@ -95,13 +95,7 @@ ul{
   color: white !important;
   background-color: red !important;
 }
-a{
-  color: white !important;
-  background-color: red !important;
-  border-color: white !important;
-  border-style: double;
 
-}
 d-grid gap-2{
   text-decoration: double !important;
 }
@@ -158,4 +152,10 @@ table{
   height: 40px;
   bottom: 8px;
   right: 25px;
+}
+a{
+  color: white !important;
+  background-color: red !important;
+  border-color: white !important;
+  border-style: double;
 }
