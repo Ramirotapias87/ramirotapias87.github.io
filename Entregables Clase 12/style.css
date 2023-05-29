@@ -91,13 +91,6 @@ ul{
   content: center;
 
 }
-aside{
-  display: grid;
-    font-size: 32px;
-    align-items: center;
-    justify-content: center;
-
-}
 .Todos{
   color: white !important;
   background-color: red !important;
@@ -159,9 +152,4 @@ table{
   padding: 10px;
   margin-bottom: 30px;
  
-}
-aside{
-  display: flex;
-  flex-direction: column;
-  justify-content: stretch;
 }
