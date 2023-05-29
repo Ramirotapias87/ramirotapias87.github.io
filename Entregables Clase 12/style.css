@@ -18,9 +18,9 @@ div.Logo{
 }
 
 .Intro{
-  margin-left: 60px;
+  margin-left: 200px;
   background-color: #dddddd;
-  text-align: center;
+  text-align: start;
   padding: 50px;
   color: rgb(9, 10, 10);
 }
