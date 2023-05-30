@@ -156,9 +156,6 @@ a.whatsapp img{
   bottom: 8px;
   right: 25px;
 }
-a.whatsapp{
-  visibility: hidden;
-}
 a{
   color: white !important;
   background-color: red !important;
