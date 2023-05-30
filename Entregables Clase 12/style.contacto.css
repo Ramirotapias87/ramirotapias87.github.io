@@ -35,3 +35,10 @@ a{
   color: white !important;
   background-color: red !important;
 }
+.wsp img {
+  position: fixed;
+  width: 60px;
+  height: 58px;
+  bottom: 8px;
+  right: 25px;
+}

@@ -1,4 +1,4 @@
  
   let saludo= prompt("Ingrese su Nombre");
-    alert (`Bienvenido ${saludo}`);
+    alert (`Gracias por cantactarte con nosotros ${saludo}`);
     console.log();
