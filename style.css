@@ -18,9 +18,9 @@ div.Logo{
 }
 
 .Intro{
-  margin-left: 40px;
+  margin-left: 200px;
   background-color: #dddddd;
-  text-align: center;
+  text-align: start;
   padding: 50px;
   color: rgb(9, 10, 10);
 }
@@ -91,24 +91,11 @@ ul{
   content: center;
 
 }
-aside{
-  display: grid;
-    font-size: 32px;
-    align-items: center;
-    justify-content: center;
-
-}
 .Todos{
   color: white !important;
   background-color: red !important;
 }
-a{
-  color: white !important;
-  background-color: red !important;
-  border-color: white !important;
-  border-style: double;
 
-}
 d-grid gap-2{
   text-decoration: double !important;
 }
@@ -151,17 +138,18 @@ table{
   justify-content: center;
   
 }
-
 .imagenes-herramientas{
   display: flex;
   justify-content: space-evenly;
   background-color:  rgb(153, 156, 156);
   padding: 10px;
   margin-bottom: 30px;
- 
 }
-aside{
-  display: flex;
-  flex-direction: column;
-  justify-content: stretch;
+
+a{
+  color: white !important;
+  background-color: red !important;
+  border-color: white !important;
+  border-style: double;
+
 }
