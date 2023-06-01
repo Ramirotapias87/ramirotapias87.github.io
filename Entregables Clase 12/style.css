@@ -18,9 +18,9 @@ div.Logo{
 }
 
 .Intro{
-  margin-left: 200px;
+  margin-left: 40px;
   background-color: #dddddd;
-  text-align: start;
+  text-align: center;
   padding: 50px;
   color: rgb(9, 10, 10);
 }
@@ -91,11 +91,24 @@ ul{
   content: center;
 
 }
+aside{
+  display: grid;
+    font-size: 32px;
+    align-items: center;
+    justify-content: center;
+
+}
 .Todos{
   color: white !important;
   background-color: red !important;
 }
+a{
+  color: white !important;
+  background-color: red !important;
+  border-color: white !important;
+  border-style: double;
 
+}
 d-grid gap-2{
   text-decoration: double !important;
 }
@@ -138,18 +151,43 @@ table{
   justify-content: center;
   
 }
+
 .imagenes-herramientas{
+
   display: flex;
   justify-content: space-evenly;
   background-color:  rgb(153, 156, 156);
   padding: 10px;
   margin-bottom: 30px;
+ 
+}
+aside{
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+}
+@media only screen and (max-width: 300px) {
+  .imagenes-herramientas {
+    flex-direction: column;
+  }
+  h2 {
+    font-size: 2rem;
 }
 
-a{
-  color: white !important;
-  background-color: red !important;
-  border-color: white !important;
-  border-style: double;
+@media only screen and (min-width: 600px) and (max-width: 900px) {
+  .contenedor {
+    width: 100%;
+    padding-left: 23px;
+    flex-direction: column-reverse;
+    flex-wrap: nowrap;
+  }
+  .cajas {
+    width: 100%;
+  }
+}
 
+@media only screen and (min-width: 900px) {
+  .contenedor {
+    flex-direction: column;
+  }
 }
