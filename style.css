@@ -49,16 +49,7 @@ margin: 8px;
 padding: 8px;
 font-size: 18px;
 }
-li a {
-  padding: 8px 50px;
-  text-decoration: none;
-  font-size: 20px;
-  background-color: #dddddd;
-  text-justify: auto;
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-}
+
 
 img{
   background-color: red;
@@ -93,10 +84,10 @@ a.dropdown-item{
 }
 
 ol {
-  font-size: 15px;
+  align-items: start;
+  font-size: 20px;
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
   list-style-type: none;
 }
 button{
@@ -147,7 +138,6 @@ a{
   gap: 05px;
 }
 nav.container {
- 
   height: calc(10vh - 10px);
   display: grid;
   grid-template-columns: repeat(4, 1fr);
