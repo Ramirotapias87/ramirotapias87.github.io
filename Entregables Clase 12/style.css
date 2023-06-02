@@ -68,7 +68,7 @@ ul{
     background-color:  rgb(153, 156, 156);
 }
 
-.contenedor-imagenes{
+div.contenedor-imagenes{
   display: flex;
   justify-content: space-between;
   background-color:  rgb(153, 156, 156);
@@ -76,7 +76,7 @@ ul{
   margin-bottom: 30px;
  
 }
-.contenedor-imagenes div{
+div.contenedor-imagenes{
   background-color: red;
   border: 2px solid white;
 
@@ -152,7 +152,7 @@ table{
   
 }
 
-.imagenes-herramientas{
+.div.imagenes-herramientas{
 
   display: flex;
   justify-content: space-evenly;
@@ -165,29 +165,4 @@ aside{
   display: flex;
   flex-direction: column;
   justify-content: stretch;
-}
-@media only screen and (max-width: 300px) {
-  .imagenes-herramientas {
-    flex-direction: column;
-  }
-  h2 {
-    font-size: 2rem;
-}
-
-@media only screen and (min-width: 600px) and (max-width: 900px) {
-  .contenedor {
-    width: 100%;
-    padding-left: 23px;
-    flex-direction: column-reverse;
-    flex-wrap: nowrap;
-  }
-  .cajas {
-    width: 100%;
-  }
-}
-
-@media only screen and (min-width: 900px) {
-  .contenedor {
-    flex-direction: column;
-  }
 }

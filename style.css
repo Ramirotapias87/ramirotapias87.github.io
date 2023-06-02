@@ -59,24 +59,8 @@ li a {
   flex-direction: row;
   align-items: flex-start;
 }
-ul{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    list-style-type: none;
-    width: 100%;
-    background-color:  rgb(153, 156, 156);
-}
 
-.contenedor-imagenes{
-  display: flex;
-  justify-content: space-between;
-  background-color:  rgb(153, 156, 156);
-  padding: 10px;
-  margin-bottom: 30px;
- 
-}
-.contenedor-imagenes div{
+img{
   background-color: red;
   border: 2px solid white;
 
@@ -96,7 +80,7 @@ ul{
   background-color: red !important;
 }
 
-d-grid gap-2{
+.d-grid-gap-2{
   text-decoration: double !important;
 }
 button.btn.btn-danger{
@@ -151,5 +135,43 @@ a{
   background-color: red !important;
   border-color: white !important;
   border-style: double;
+  text-decoration: none !important;
 
+}
+.container {
+  margin: 5px;
+  height: calc(70vh - 10px);
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr); 
+  gap: 05px;
+}
+nav.container {
+ 
+  height: calc(10vh - 10px);
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(1, 1fr); 
+}
+
+.item {
+  min-width: auto;
+  background-color: #e00606;
+  font-size: 30px;
+  text-align: center;
+}
+
+@media (max-width: 1200px) {
+  .container {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+  }
+}
+ @media (min-width: 420px) and (max-width: 800px) {
+  .container {
+    grid-template-columns: repeat(1, 2fr);
+    grid-template-rows: repeat(6, 1fr);
+    width: 100%;
+    flex-direction: column-reverse;
+  }
 }
